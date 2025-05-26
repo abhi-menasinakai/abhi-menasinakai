@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhi Menasinakai</h1>
-<h3 align="center">As a DevOps engineer , I have expertise in designing, implementing and managing highly available and scalable infrastructure using aws cloud. I possess extensive knowledge and practical experience in configuration management tools such as jenkins, ansible. Also has good knowledge in container orchestration platform like Kubernetes</h3>
+<h3 align="center">As a DevOps engineer , I have expertise in designing, implementing and managing highly available and scalable infrastructure using aws cloud.</h3>
 
 - 🔭 I’m currently working on **Keycloak SSO Integration**
 
