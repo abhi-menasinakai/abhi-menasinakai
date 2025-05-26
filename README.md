@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Keycloak SSO Integration**
 
-- 🌱 I’m currently learning **OKTA SSO, MLOPS**
+- 🌱 I’m currently learning **MLOPS**
 
 - 📫 How to reach me **abhimenasinakai@gmail.com**
 
